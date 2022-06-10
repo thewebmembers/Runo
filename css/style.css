@@ -764,6 +764,9 @@ footer{
     .section_1 > div > span {
         text-align: center;
     }
+    header{
+        padding: 0 30px;
+    }
 }
 @media(max-width: 470px){
     .section_1_nav a{
@@ -799,6 +802,14 @@ footer{
 @media(max-width: 410px){
     .under_footer_div{
         padding: 0 10px;
+    }
+}
+@media(max-width: 390px){
+    .section_1_nav a{
+        font-size: 9px;
+    }
+    .under_footer_span{
+        font-size: 9px;
     }
 }
 @media(max-width: 320px){
