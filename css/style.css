@@ -806,6 +806,10 @@ footer{
     .no_at_410 {
         display: none;
     }
+    .section_1_nav {
+        padding-left: 0;
+        padding-right: 0;
+    }
 }
 @media(max-width: 390px){
     .section_1_nav a{
