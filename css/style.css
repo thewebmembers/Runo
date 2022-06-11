@@ -803,6 +803,9 @@ footer{
     .under_footer_div{
         padding: 0 10px;
     }
+    .no_at_410 {
+        display: none;
+    }
 }
 @media(max-width: 390px){
     .section_1_nav a{
