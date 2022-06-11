@@ -405,4 +405,7 @@ footer{
     .under_footer_div{
         padding: 0 10px;
     }
+    .view_all {
+       display: none;
+    }
 }
